@@ -1,8 +1,8 @@
 ## Hi there 👋
 I am a protein scientists who enjoys coding. 
 
-🔭 I’m currently working on gobio, a project that fuels my need to
-code/learn and enables me to be a better research scientist.
+🔭 I’m currently working on gobio, a project that feeds my coding
+hunger and enables me to be a better research scientist.
 
 🌱 I completed the Back-end Developer Path (Python & Go) at boot.dev. Currently working towards Archmage status. [profile](https://www.boot.dev/u/woefulgo12)
 
