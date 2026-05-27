@@ -4,7 +4,7 @@ I am a protein scientists who enjoys coding.
 🔭 I’m currently working on gobio, a project that feeds my coding
 hunger and enables me to be a better research scientist.
 
-🌱 I completed the Back-end Developer Path (Python & Go) at boot.dev. Currently working towards Archmage status. [profile](https://www.boot.dev/u/woefulgo12)
+🌱 I completed the Back-end Developer Path (Python & Go) at boot.dev and acheived Archmage status. [profile](https://www.boot.dev/u/woefulgo12)
 
 ⚡ I'm taking a break from reading [The Go Programming Language](https://www.gopl.io/) and am diving into [100 Go Mistakes](https://100go.co/book/)
 
