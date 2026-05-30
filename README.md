@@ -1,12 +1,12 @@
 ## Hi there 👋
-I am a protein scientists who enjoys coding. 
+I am a protein scientist who enjoys coding. 
 
-🔭 I’m currently working on gobio, a project that feeds my coding
-hunger and enables me to be a better research scientist.
+🔭 I'm currently working on gobio. I built this Go library to empower my work as a protein scientist. 
+It is driven by need and developed to be specific and simple.
 
-🌱 I completed the Back-end Developer Path (Python & Go) at boot.dev and acheived Archmage status. [profile](https://www.boot.dev/u/woefulgo12)
+🌱 I completed the Back-end Developer Path (Python & Go) at boot.dev and acheived Archmage status [profile](https://www.boot.dev/u/woefulgo12).
 
-⚡ I'm taking a break from reading [The Go Programming Language](https://www.gopl.io/) and am diving into [100 Go Mistakes](https://100go.co/book/)
+⚡ I'm currently reading [100 Go Mistakes](https://100go.co/book/).
 
 
 <!-- **tnaums/tnaums**
@@ -23,4 +23,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+taking a break from reading [The Go Programming Language](https://www.gopl.io/)
+
 -->
