@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am a protein scientist who enjoys coding. 
 
-🔭 I'm currently working on gobio. I built this Go library to empower my work as a protein scientist. 
+🔭 I'm currently working on gobio. I'm building this Go library to empower my work as a protein scientist. 
 It is driven by need and developed to be specific and simple.
 
 🌱 I completed the Back-end Developer Path (Python & Go) at boot.dev and acheived Archmage status [profile](https://www.boot.dev/u/woefulgo12).
