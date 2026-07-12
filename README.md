@@ -6,8 +6,7 @@ It is driven by need and developed to be specific and simple.
 
 🌱 I completed the Back-end Developer Path (Python & Go) at boot.dev and acheived Archmage status [profile](https://www.boot.dev/u/woefulgo12).
 
-⚡ I'm currently reading [100 Go Mistakes](https://100go.co/book/).
-
+↯ I began learning and coding in Zig after watching an Andrew Kelley interview (https://www.youtube.com/watch?v=iqddnwKF8HQ&t=2s).
 
 <!-- **tnaums/tnaums**
 - is a ✨ _special_ ✨ repository because its `README.md` (this file)
@@ -25,5 +24,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 taking a break from reading [The Go Programming Language](https://www.gopl.io/)
-
+⚡ I'm currently reading [100 Go Mistakes](https://100go.co/book/).
 -->
