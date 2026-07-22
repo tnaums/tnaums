@@ -8,6 +8,8 @@ It is driven by need and developed to be specific and simple.
 
 ↯ I began learning and coding in Zig after watching an Andrew Kelley interview (https://www.youtube.com/watch?v=iqddnwKF8HQ&t=2s).
 
+⚡ I'm reading 'Learning Zig' by Alex Rios (https://www.packtpub.com/en-us/product/learning-zig-9781835084496)
+
 <!-- **tnaums/tnaums**
 - is a ✨ _special_ ✨ repository because its `README.md` (this file)
 - appears on your GitHub profile.
