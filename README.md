@@ -10,7 +10,7 @@ It is driven by need and developed to be specific and simple.
 
 ⚡ I'm reading 'Learning Zig' by Alex Rios
 (https://www.packtpub.com/en-us/product/learning-zig-9781835084496)
-⚡ I'm reading 'Systems Programming with Zig' by Mihalis Tsoukalos (https://github.com/mactsouk/zigSP)
+
 
 <!-- **tnaums/tnaums**
 - is a ✨ _special_ ✨ repository because its `README.md` (this file)
@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+⚡ I'm reading 'Systems Programming with Zig' by Mihalis Tsoukalos (https://github.com/mactsouk/zigSP)
 taking a break from reading [The Go Programming Language](https://www.gopl.io/)
 ⚡ I'm currently reading [100 Go Mistakes](https://100go.co/book/).
 -->
