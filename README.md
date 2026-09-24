@@ -1,12 +1,14 @@
 ## Hi there 👋
 I am a protein scientist who enjoys coding. 
 
-🔭 I'm currently working on gobio. I'm building this Go library to empower my work as a protein scientist. 
-It is driven by need and developed to be specific and simple.
+🔭 I'm currently working on _fasta_, a zig library for working with
+protein(🥩) and DNA🧬 sequences.
 
-🌱 I completed the Back-end Developer Path (Python & Go) at boot.dev and acheived Archmage status [profile](https://www.boot.dev/u/woefulgo12).
+🌱 I completed the Back-end Developer Path (Python & Go) at boot.dev
+and acheived Archmage status. Still waiting on my coin though...
 
-↯ I began learning and coding in Zig after watching an Andrew Kelley interview (https://www.youtube.com/watch?v=iqddnwKF8HQ&t=2s).
+↯ I was inspired to try Zig after watching an Andrew Kelley interview
+and haven't looked back. (https://www.youtube.com/watch?v=iqddnwKF8HQ&t=2s).
 
 ⚡ I'm reading 'Systems Programming with Zig' by Mihalis Tsoukalos (https://github.com/mactsouk/zigSP)
 
